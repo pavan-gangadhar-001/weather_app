@@ -152,13 +152,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "weather_app",
+      "name": "weatherapp",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-07-21T06:34:07.324178Z",
+  "generated": "2021-07-26T09:49:06.006282Z",
   "generator": "pub",
   "generatorVersion": "2.13.3"
 }
